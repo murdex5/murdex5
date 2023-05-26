@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @murdex5
-- 🌱 I’m currently learning Python and django
 - 📫 How to reach me fkadupitige@gmail.com
 
 <!---
