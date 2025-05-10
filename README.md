@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @murdex5
-- 📫 How to reach me fkadupitige@gmail.com
+- 📫 How to reach me malshapraboth@gmail.com
 
 <!---
 murdex5/murdex5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
