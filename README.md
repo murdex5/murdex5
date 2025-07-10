@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm murdex5 from Italy<br><br>- 🔭 I’m a Student at 42Roma<br>- 📚 I'm currently learning C/C++</p>
+<p align="left">Hey! I’m Malsha (aka murdex5 on GitHub). I’m from Italy, and I love coding!<br><br>- 🔭 I’m a Student at 42Roma<br>- 📚 I'm currently learning C/C++</p>
 
 ###
 
