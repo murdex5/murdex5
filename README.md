@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murdex5&theme=gruvbox" alt="GitHub Streak" /></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/kadferna?1337Badge=off" alt="kadferna's 42 stats" /></a>
 </div>
 
 ###
