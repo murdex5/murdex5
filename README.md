@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Hey! I’m Malsha (aka murdex5 on GitHub). I’m from Italy, and I love coding!<br><br>- 🔭 I’m a Student at 42Roma<br>- 📚 I'm currently learning C/C++</p>
+<p align="left">Hey! I'm Malsha (aka murdex5 on GitHub).<br>I'm currently a student at 42 School, diving deep into C/C++ and core programming principles.<br>I'm passionate about low-level systems, algorithms, and software engineering fundamentals.<br>Beyond that, I enjoy exploring other languages and tools to broaden my development skills.<br>Always open to collaborating on interesting projects!<br><br>- 🔭 I’m a Student at 42Roma<br>- 📚 I'm currently learning C/C++</p>
 
 ###
 
