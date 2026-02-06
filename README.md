@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Helloo!! 👋</h1>
+<h1 align="center">Hi!! Welcome to my Profile 👋</h1>
 
 ###
 
