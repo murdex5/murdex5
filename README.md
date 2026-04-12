@@ -59,9 +59,8 @@ I care about understanding how things actually work, not just making them run. T
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=murdex5&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murdex5&layout=compact&theme=dark&hide_border=true" height="150"/> -->
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/murdex5?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/murdex5?cardType=level&theme=city-lights&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 </div>
 
 ---
