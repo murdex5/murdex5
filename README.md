@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="./cat-8066816.jpg"/>
-  <br>
-  Image by <a href="https://pixabay.com/users/gugacurado-9127389/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8066816">gugacurado</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8066816">Pixabay</a>
-</div>
-
 ###
 
 <div align="center">
